@@ -1,11 +1,11 @@
 Summary:	LUKS for dm-crypt implemented in cryptsetup
 Name:		cryptsetup
-Version:	1.5.1
+Version:	1.6.0
 Release:	1
 License:	GPL
 Group:		Base
 Source0:	http://cryptsetup.googlecode.com/files/%{name}-%{version}.tar.bz2
-# Source0-md5:	87cc018c0c65f36043f38ceb8ffd4d81
+# Source0-md5:	99002ac59a65ea371e7a98200943cb80
 URL:		http://code.google.com/p/cryptsetup/
 BuildRequires:	autoconf
 BuildRequires:	automake
