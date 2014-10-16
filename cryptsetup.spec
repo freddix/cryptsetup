@@ -1,7 +1,8 @@
+# based on PLD Linux spec git://git.pld-linux.org/packages/cryptsetup.git
 Summary:	LUKS for dm-crypt implemented in cryptsetup
 Name:		cryptsetup
 Version:	1.6.3
-Release:	3
+Release:	4
 License:	GPL
 Group:		Core/System
 Source0:	http://cryptsetup.googlecode.com/files/%{name}-%{version}.tar.bz2
